@@ -29,7 +29,7 @@ h1,h2,h3,h4,h5,h6 {
 
 .intro {
     width: 100%;
-    height: 100vh;
+    height: 50vh;
     
     background: 
         url("../Images/51-515456_bad-goisern.jpg") center no-repeat;
@@ -65,8 +65,10 @@ h1,h2,h3,h4,h5,h6 {
 /* NAV */
 
 .nav {
-    font-size: 14px;
+    font-size: 20px;
     text-transform: uppercase;
+    background-color: white;
+    padding: 10px;
 }
 .nav__link {
     display: inline-block;
@@ -74,7 +76,7 @@ h1,h2,h3,h4,h5,h6 {
     margin: 0 15px;
     position: relative;
     
-    color: #fff;
+    color: black;
     text-decoration: none;
     
     transition: color .1s linear;
@@ -103,6 +105,21 @@ h1,h2,h3,h4,h5,h6 {
 .nav__link:hover:after {
     
     opacity: 1;
-    
+}
+
+
+/* Section*/
+.section {
+    padding: 80px 0;
     
 }
+
+.section__header {
+    width: 100%;
+    max-width: 950px;
+    margin: 0 auto 40px;
+}
+
+
+
+
