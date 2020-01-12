@@ -20,3 +20,12 @@ Natürlich bitten wir dich auch, dass du dich an unten angegebenen Regeln haltes
 Wir freuen uns immer auf neue Kollegen in unserem Team. Natürlich werden von deiner Seite entschprechende Qualifikationen
 verlangt werden, aber wenn du an dich glaubst, muttig bist und bereit in die Welt des IT-Tourismus einzutauchen, dann melde
 dich per [mail](https://github.com/isipp/G7_Projekt) an unser Team Leader
+
+
+
+### P.S. Wir sind natürlich für die Beschwerden auch öffen, falls du solche hast, wie bis jetzt melde dich an unser Team unter [mail](https://github.com/isipp/G7_Projekt)
+
+
+Herzlichen Dank! :heart:
+
+Easy-Visy Team
