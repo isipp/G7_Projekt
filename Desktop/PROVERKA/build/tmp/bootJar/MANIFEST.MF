@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Built-By: esad
+Build-Timestamp: 2021-10-29T09:49:47.960+0200
+Created-By: Gradle 7.2
+Build-Jdk: 16.0.2 (Oracle Corporation 16.0.2+7-67)
+Build-OS: Linux amd64 5.10.0-8-amd64
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: client.main.MainClient
+Spring-Boot-Version: 2.5.5
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Spring-Boot-Classpath-Index: BOOT-INF/classpath.idx
+Spring-Boot-Layers-Index: BOOT-INF/layers.idx
+

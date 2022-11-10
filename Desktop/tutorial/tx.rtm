@@ -1,0 +1,3 @@
+CALL_METHOD ComponentAddress("account_sim1qv8x9pupletelkj3rsy9w2utxwt8jgz5mam3nkwuqd8qx3253c") "lock_fee" Decimal("10");
+CALL_METHOD ComponentAddress("account_sim1qv8x9pupletelkj3rsy9w2utxwt8jgz5mam3nkwuqd8qx3253c") "create_proof" ResourceAddress("resource_sim1qrq3c064fsl3r0kjf35gu45c0qev69qk5fftqklav68snjk336");
+CALL_METHOD ComponentAddress("component_sim1qflkpd709wxgsqdcc9cf4rnzad7xkemjaqvld84rkksqgucm2n") "show_votes";

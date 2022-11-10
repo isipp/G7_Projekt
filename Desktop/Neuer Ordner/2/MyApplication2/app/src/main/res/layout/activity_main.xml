@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/home_screen"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".UI.Home">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/one"
+        android:layout_width="match_parent"
+        android:layout_marginTop="50dp"
+        android:layout_height="250dp"
+        android:src="@drawable/one"/>
+
+    <Button
+        android:id="@+id/Accounts"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickAccounts"
+        android:text="Accounts" />
+
+    <Button
+        android:id="@+id/Categories"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickCategories"
+        android:text="Categories" />
+
+    <Button
+        android:id="@+id/Transactions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickTransactions"
+        android:text="Transactions" />
+
+</LinearLayout>
